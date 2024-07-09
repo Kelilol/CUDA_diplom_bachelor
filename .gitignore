@@ -12,7 +12,8 @@
 !*.rar
 # Исключить директории с библиотеками
 C_CUDA_diplom_bachelor/minidiplom.rar
+!C_CUDA_diplom_bachelor/minidiplom/Common/book.h
 C_CUDA_diplom_bachelor/minidiplom/Common/glew-2.2.0/bin/
 C_CUDA_diplom_bachelor/minidiplom/Common/glew-2.2.0/doc/
-C_CUDA_diplom_bachelor/minidiplom/Common/glew-2.2.0/LICENSE.txt
-C_CUDA_diplom_bachelor/minidiplom/Common/glew-2.2.0/Makefile.txt
+!C_CUDA_diplom_bachelor/minidiplom/Common/glew-2.2.0/LICENSE.txt
+!C_CUDA_diplom_bachelor/minidiplom/Common/glew-2.2.0/Makefile.txt
